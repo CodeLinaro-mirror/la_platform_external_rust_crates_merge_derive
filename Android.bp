@@ -25,7 +25,6 @@ rust_proc_macro {
     edition: "2018",
     rustlibs: [
         "libproc_macro2",
-        "libproc_macro_error",
         "libquote",
         "libsyn",
     ],
